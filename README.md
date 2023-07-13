@@ -11,7 +11,7 @@ Screenshots
 Sited Code Sources:
 
 Source 1: https://github.com/shrawantee/VBA-Scripting---Stock-Market-Analysis/blob/master/HW2_Moderate_DS.vbs
-  I used this source to help me with yearly change (where struggled the most) to get the code to subtract the first open amount of the ticker to the close amount of the same ticker. After that, I used it as a reference to make sure I was on the right track. 
+  I used this source to help me with yearly change (where I struggled the most) to get the code to subtract the first open amount of the ticker from the close amount of the same ticker. After that, I used it as a reference to make sure I was on the right track. 
 
 Source 2: https://stackoverflow.com/questions/51977446/vba-find-highest-value-in-a-column-c-and-return-its-value-and-the-adjacent-ce
   I used the last answer to help me with finding the max and min values of a range. 
